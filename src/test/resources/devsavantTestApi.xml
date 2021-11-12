@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="devsavant" parallel="false">
+    <test name="devSavant_TEST">
+        <classes>
+            <class name="com.devsavant.devsavantAPITest"/>
+            <class name="com.devsavant.getTime"/>
+        </classes>
+    </test>
+</suite>
+
