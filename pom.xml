@@ -12,9 +12,6 @@
 
   <artifactId>API</artifactId>
   <packaging>pom</packaging>
-  <modules>
-    <module>JSON_SERVER</module>
-  </modules>
 
   <dependencies>
     <dependency>
